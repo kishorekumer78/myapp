@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    My app new Data Added
+    My app new Data Added from jetbrains
   </header>
 
   <RouterView />
