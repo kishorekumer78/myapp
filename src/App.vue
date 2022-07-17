@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    My app
+    My app new Data Added
   </header>
 
   <RouterView />
