@@ -4,9 +4,10 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <header>
+  <div>
     My app new Data Added from jetbrains
-  </header>
+  </div>
+  <p>new Changes for test purpose</p>
  <i class="fa fa-address-book text-success"></i>
   <a class="btn btn-primary mr-2" href="/">Home</a>
   <a class="btn btn-primary mr-2" href="/about">About</a>
