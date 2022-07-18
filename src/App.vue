@@ -7,11 +7,17 @@ import HelloWorld from './components/HelloWorld.vue'
   <header>
     My app new Data Added
   </header>
-
-  <RouterView />
+ <i class="fa fa-address-book text-success"></i>
+  <a class="btn btn-primary mr-2" href="/">Home</a>
+  <a class="btn btn-primary mr-2" href="/about">About</a>
+  <a class="btn btn-primary mr-2" href="/about">Login</a>
+  <a class="btn btn-primary mr-2" href="/about">Register</a>
+<!--  <RouterView />-->
 </template>
 
 <style scoped>
+
+
 header {
   line-height: 1.5;
   max-height: 100vh;
