@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    My app new Data Added
+    My app new Data Added from jetbrains
   </header>
  <i class="fa fa-address-book text-success"></i>
   <a class="btn btn-primary mr-2" href="/">Home</a>
